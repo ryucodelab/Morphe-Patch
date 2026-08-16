@@ -1,6 +1,6 @@
 {
   "version": "v9.15.51 (patches 1.39.1.mpp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/ryucodelab/Morphe-Patch/releases/download/2/music-morphe-module-v9.15.51-arm-v7a.zip",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/ryucodelab/Morphe-Patch/releases/download/3/music-morphe-module-v9.15.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/ryucodelab/Morphe-Patch/update/build.md"
 }
